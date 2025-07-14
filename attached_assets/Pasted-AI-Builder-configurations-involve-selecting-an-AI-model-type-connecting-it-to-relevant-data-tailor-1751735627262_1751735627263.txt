@@ -1,0 +1,29 @@
+AI Builder configurations involve selecting an AI model type, connecting it to relevant data, tailoring the model to your needs, and then training it to perform specific tasks. This process allows you to automate tasks, extract insights, and predict outcomes within your business processes using AI without needing extensive coding knowledge. 
+Here's a more detailed breakdown:
+1. Choose an AI Model Type: 
+AI Builder offers various prebuilt and custom model types, catering to different needs.
+Prebuilt models are ready to use and address common scenarios.
+Custom models allow you to build, train, and publish unique models for your specific business requirements.
+2. Connect Data: 
+Select the appropriate data sources for your chosen model.
+This data will be used to train and refine the AI model's performance.
+3. Tailor the AI Model: 
+Adjust custom models to optimize their performance and align them with your specific business objectives.
+Prebuilt models may also have configuration options.
+4. Train the AI Model: 
+Training teaches the AI model to recognize patterns, make predictions, or extract information based on your data.
+AI Builder automates this training process.
+5. Use Insights from the Model:
+Once trained, the AI model can generate insights, predictions, or perform actions. 
+These insights can be used within Power Apps and Power Automate to automate tasks or create intelligent applications. 
+Example Scenarios:
+Document Processing: Extract information from documents like invoices or forms using document processing models. 
+Object Detection: Identify and count objects in images using object detection models. 
+Text Classification: Categorize text feedback or support tickets using text classification models. 
+Form Processing: Automatically fill out forms based on extracted data. 
+Sentiment Analysis: Analyze customer feedback to gauge sentiment and personalize responses. 
+Key Benefits:
+No-code/Low-code: AI Builder simplifies AI model creation, making it accessible to users without extensive coding experience. 
+Automation: Automate repetitive tasks, improving efficiency and reducing errors. 
+Data-driven Insights: Gain valuable insights from your data to make better decisions. 
+Integration: Seamlessly integrate AI models into your existing Power Apps and Power Automate workflows. 
